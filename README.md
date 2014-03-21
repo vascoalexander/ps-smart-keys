@@ -26,3 +26,5 @@ Activate the Checkboxes to constantly hold down a modifier Key (Alt, Ctrl, Shift
 **IMPORTANT**: The Script uses the Standard Shortcuts for the Tools. If you have changed this shortcuts the script may not work as intended.
 
 You need to have [Autohotkey](Link: http://www.autohotkey.com/) installed to make use of this script. (or use the compiled executable Version)
+
+Use the Script at your own risk...
