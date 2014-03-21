@@ -27,4 +27,4 @@ Activate the Checkboxes to constantly hold down a modifier Key (Alt, Ctrl, Shift
 
 You need to have [Autohotkey](Link: http://www.autohotkey.com/) installed to make use of this script. (or use the compiled executable Version)
 
-![SmartKeys](https://github.com/vascoalexander/ps-smart-keys/cover.jpg "Smart Keys Cover")
+![SmartKeys](https://github.com/vascoalexander/ps-smart-keys/blob/master/cover.jpg "Smart Keys Cover")
